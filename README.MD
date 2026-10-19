@@ -6,7 +6,7 @@
 
 ## 📖 Project Overview
 
-This project demonstrates a complete production-style workflow for adapting an open-source Large Language Model to a specialized pharmaceutical domain.
+This project demonstrates an end-to-end workflow for adapting an open-source Large Language Model to the pharmaceutical domain.
 
 Instead of relying on a single fine-tuning stage, the model is trained through **three sequential adaptation phases**, enabling it to acquire domain knowledge, follow user instructions, and generate more preference-aligned responses.
 
